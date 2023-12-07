@@ -1,2 +1,2 @@
 # Ders_Ogrenci_Kayit
- Ders  ve öğrenci kayıt sistemi 
+ Ders ve öğrenci kayıt sistemi ödevi
